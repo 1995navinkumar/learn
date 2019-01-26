@@ -78,6 +78,6 @@ splice* In a single mode fiber, the light travels in a single path. It takes a l
 LED light, and has a much larger core
 ![multi-mode](./assets/multi-mode-fibre.PNG)
 
-* Comparison
-![mode-comparison](./assets/fibre-mode-comparison.PNG)
+### Comparison
+  ![mode-comparison](./assets/fibre-mode-comparison.PNG)
 
