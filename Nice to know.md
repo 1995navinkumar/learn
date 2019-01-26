@@ -28,3 +28,30 @@ computing. One megabyte equals 1, 048,
 576 bytes, and one byte equals 8 binary
 digits (aka bits).
 
+## Resistance
+* Resistance is a measurement of how hard it is for electrons to
+move through a wire. It’s measured in ohms, and represented by the
+Greek letter omega, Ω. The higher the number of ohms, the harder
+it is for electrons to move through the wire.
+    * R = Pl/A (P = Resistivity of the material, l = length, A = area)
+
+## Voltage
+* Voltage is really electrical pressure.
+*  voltage is the pressure that tries to make electrons flow.
+It’s the push felt by the electrons. Think of voltage as the force that
+moves the electrons in a circuit, and resistance as anything that might
+slow them down, such as a broken wire.
+* If we compare electron flow in a cable to water flow down a garden
+hose, voltage is like the pressure of the water coming out the faucet,
+and resistance is like the width of the garden hose.
+* The signal on a network cable is just the change in voltage
+over time.
+
+## Noise
+* Noise is unwanted signals on your network cables.
+It comes from lots of different sources of electronic
+energy. Most things that use electricity leak
+electromagnetic energy. This is especially true of
+electric things that move or have moving parts.
+
+
