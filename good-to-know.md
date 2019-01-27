@@ -140,3 +140,24 @@ sends email, it uses the smtp protocol.
 There are many different application type
 protocols.
 
+## Internet vs internet
+* The Internet refers to
+the big interconnected
+space we use to send
+data around the world.
+The term “internet” refers
+to at least two intranets
+connected together by a
+router.
+
+## Physical Network vs Logical Network
+* The physical
+network is the
+hardware such as
+the cables, switches,
+hubs, and routers.
+* The logical
+network is
+the network
+addressing stuff.
+

@@ -14,3 +14,8 @@ a command prompt window and enter
 sudo /sbin/ifconfig -a. The
 MAC address will show under “hwaddr” or
 “ether.” 
+
+## How to find the MAC addresses stored in a Switch
+1. Connect the computer to the switch using a Serial cable.
+2. Open a terminal program such as Hyperterminal, and get to the command prompt of the switch.
+    * switch#  show mac-address (HP switch)  
